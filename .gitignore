@@ -1,0 +1,21 @@
+# 依賴
+node_modules/
+npm-debug.log*
+
+# 環境變數
+.env
+.env.local
+
+# 前端構建輸出
+frontend/dist/
+
+# 編輯器文件
+.vscode/
+.idea/
+
+# 作業系統文件
+.DS_Store
+Thumbs.db
+
+# 其他
+*.log
